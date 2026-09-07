@@ -1,23 +1,23 @@
 # 👋 Hi, I'm André Silva
 
 ## 🇧🇷 Sobre mim
-Desenvolvedor focado em **Python**, com experiência em **Django** e **Django REST Framework**.  
-Atualmente estudando **FastAPI** e **ReactJS** para me tornar Full Stack.  
-📚 Gosto de ler sobre tecnologia e outros gêneros.
+Desenvolvedor focado em **Python**, com experiência em **Django** e **Django REST Framework**.
+Atualmente estudando **Java** e **Spring Boot** como minha segunda stack, além de **ReactJS**, com o objetivo de me tornar um desenvolvedor **Full Stack**.
+📚 Gosto de ler sobre **tecnologia** e outros gêneros.
 
 ---
 
 ## 🇺🇸 About me
-Python developer with experience in **Django** and **Django REST Framework**.  
-Currently learning **FastAPI** and **ReactJS** to become a Full Stack Developer.  
-📚 I enjoy reading tech books and other genres.
+Developer focused on **Python**, with experience in **Django** and **Django REST Framework**.
+Currently learning **Java** and **Spring Boot** as my second tech stack, along with **ReactJS**, with the goal of becoming a **Full Stack Developer**.
+📚 I enjoy reading about **technology** and other genres.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Backend:** Python, Django, DRF, FastAPI (learning)  
-**Frontend:** ReactJS(learning), TypeScript (learning)  
+**Backend:** Python, Django, DRF, Java / Spring Boot (learning)  
+**Frontend:** TypeScript / ReactJS (learning)  
 **Tools:** Git, Linux, REST APIs  
 
 ---
